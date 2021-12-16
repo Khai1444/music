@@ -136,6 +136,12 @@ const app = {
             path: './assets/songs/y2mate.com - Phượng Buồn  H2K x Sli Petey by H2K  VN MIXCLOUD.mp3',
             image: './assets/img/phuongbuon.jpg'
         },
+        {
+            name: ' Đế Vương',
+            singer: 'Đình Dũng',
+            path: './assets/songs/y2mate.com - Đế Vương  Đình Dũng  Dunghoangpham Cover.mp3',
+            image: './assets/img/devuong.jpg'
+        },
             ],
     setConfig: function (key, value) {
         this.config[key] = value;
