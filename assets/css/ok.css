@@ -216,3 +216,17 @@
       cursor: pointer;
   }
   
+  .copy-right {
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.copy-right a {
+    text-decoration: none;
+    color: rgb(231, 37, 37)
+}
+
+.copy-right a:hover {
+    color: #1740af
+}
