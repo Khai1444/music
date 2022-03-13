@@ -142,6 +142,12 @@ const app = {
             path: './assets/songs/y2mate.com - Đế Vương  Đình Dũng  Dunghoangpham Cover.mp3',
             image: './assets/img/devuong.jpg'
         },
+        {
+            name: ' Cô Ta',
+            singer: 'JK Dương Tiên',
+            path: './assets/songs/y2mate.com - Cô Ta  JK Dương Tiên  Hot Tik Tok  Nhack Chill Hay Nhất 2021.mp3',
+            image: './assets/img/devuong.jpg'
+        },
             ],
     setConfig: function (key, value) {
         this.config[key] = value;
