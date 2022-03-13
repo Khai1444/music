@@ -146,7 +146,7 @@ const app = {
             name: ' Cô Ta',
             singer: 'JK Dương Tiên',
             path: './assets/songs/y2mate.com - Cô Ta  JK Dương Tiên  Hot Tik Tok  Nhack Chill Hay Nhất 2021.mp3',
-            image: './assets/img/devuong.jpg'
+            image: './assets/img/cota.jpg'
         },
             ],
     setConfig: function (key, value) {
