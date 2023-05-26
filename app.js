@@ -23,6 +23,12 @@ const app = {
     config: JSON.parse(localStorage.getItem('PLAYER_STORAGE_KEY')) || {},
     songs : [
         {
+            name: 'EM ĐỒNG Ý (I DO) - ĐỨC PHÚC x 911 x KHẮC HƯNG',
+            singer: 'ĐỨC PHÚC x 911 x KHẮC HƯNG',
+            path: './assets/songs/EM ĐỒNG Ý (I DO) - ĐỨC PHÚC x 911 x KHẮC HƯNG.mp3',
+            image: './assets/img/emdongy.jpg'
+        },
+        {
             name: 'Dịu Dàng Em Đến Remix',
             singer: 'Erik',
             path: './assets/songs/Dịu Dàng Em Đến  ERIKCukak Remix.mp3',
